@@ -1,6 +1,7 @@
-# kevin websites
-
 ### 一頁式網頁
+
+用來主打專注性商品或是話題，對於客戶瀏覽只須手機體驗即可，一指滑動即可洞視全場，也者更可以用來對不同類型產品試水溫或是銷售給與官網不同族群消費者，限時特價、區域性活動、連話題性參訪都可以使用，頁面單純、簡潔有力，不需要另開子網域等來擴充原網站，這也是近年來國外對於一頁式越來越有熱忱的主因。
+
 
 #### 優點
 * 主題明確
@@ -10,7 +11,6 @@
 * 影響到SEO的排名
 * 內容缺乏深度
 
-
 製作時間：2 ~ 5工作天
 
 
@@ -18,7 +18,13 @@
 * [衛武營國家藝術文化中心](http://project.oniondesign.com.tw/weiwuying/) 
 * [牧師樓古蹟庭園咖啡](http://www.boksulao.com/)
 * [愛愛搖滾音樂祭](http://project.oniondesign.com.tw/love/)
-
+* [飯粒厚｜台灣米食力展 Rice and Life 2014](http://project.oniondesign.com.tw/rice/web/)
+* [URS 住得起的社會住宅](http://www.urstaipei.net/housing/)
+* [URS 你我都可參與的城市改造](https://www.urstaipei.net/transformingcity/)
+* [CCC](http://project.oniondesign.com.tw/ccc/index/)
+* [CCC](http://project.oniondesign.com.tw/ccc/taipei/)
+* [CCC](http://project.oniondesign.com.tw/ccc/cast_frame/)
+* [联发科技 - 真八核心处理器](http://project.oniondesign.com.tw/mediatek/)
 
 ### CMS網站 (wordpress、joomla)
 
@@ -33,11 +39,15 @@
 
 #### CMS網站案例
 * [水金九文化行旅](http://www.sueijinjiou.com/)
+* [沈香會館](http://www.agarwoodshop.tw/)
+* [丨龍團](http://www.guenlungtuan.com/)
 * [Ladylin](https://www.l-lingerie.com/)
 * [蔥藻](http://www.hotspringonion.com/)
 * [X-Line](http://www.x-linedesign.com/en/)
 * [巴哈靈感音樂學習中心](http://www.bachinspiration.com/)
 * [九份茶坊](https://www.jioufen-teahouse.com.tw/en/?lang=tw)
+* [台北村落之聲](https://www.urstaipei.net/)
+* [找到台北城市散步](https://www.urstaipei.net/citywalker/)
 
 
 ### 台灣電商平台 (Shopline)
