@@ -39,15 +39,37 @@
 
 #### CMS網站案例
 * [水金九文化行旅](http://www.sueijinjiou.com/)
+	* Joomla 基本功能, 不需加寫
+	* 5個工作天
+
 * [沈香會館](http://www.agarwoodshop.tw/)
+	* 基本首頁大圖輪播、最新消息、產品
+	* 加寫增加知識分享後台
+
 * [丨龍團](http://www.guenlungtuan.com/)
+	* Joomla 基本功能 + 首頁輪播
+
 * [Ladylin](https://www.l-lingerie.com/)
+	* 基本首頁大圖輪播、最新消息
+	* 加寫美麗分享、FAQ
+
 * [蔥藻](http://www.hotspringonion.com/)
+	* 基本首頁大圖輪播、好料News、菜單
+	* 客製化首頁文字編輯, 加寫等路、喝Bar活動 (複製菜單後台)
+
 * [X-Line](http://www.x-linedesign.com/en/)
+	* 基本首頁大圖輪播、媒體報導、專案作品
+	* 加寫總監資訊、團隊成員管理
+
+* [台北村落之聲](https://www.urstaipei.net/)
+	* 全客製化
+
+* [找到台北城市散步](https://www.urstaipei.net/citywalker/)
+	* 全客製化
+
 * [巴哈靈感音樂學習中心](http://www.bachinspiration.com/)
 * [九份茶坊](https://www.jioufen-teahouse.com.tw/en/?lang=tw)
-* [台北村落之聲](https://www.urstaipei.net/)
-* [找到台北城市散步](https://www.urstaipei.net/citywalker/)
+
 
 
 ### 台灣電商平台 (Shopline)
